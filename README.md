@@ -11,3 +11,5 @@ Run:
 
 • python BIN-checker.py
 
+
+!!!Take Api-Token here: https://promptapi.com/account
