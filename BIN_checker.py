@@ -6,7 +6,6 @@ The script is made by Azuremods
 import os
 from colorama import *
 import requests
-import json
 
 token = ""
 
