@@ -2,7 +2,7 @@
 The script is made by Azuremods
 
 """
-# 7WRajfHIqNXXveImvJ6OhYSBNDxzv5Zu
+
 import os
 from colorama import *
 import requests
