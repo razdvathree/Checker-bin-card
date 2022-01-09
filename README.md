@@ -9,5 +9,5 @@ Install:
 
 Run:
 
-• python 
+• python BIN-checker.py
 
